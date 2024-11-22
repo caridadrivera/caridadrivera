@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  ### Hi, I'm Caridad and I am a Full Stack Developer with 3 years of experience 👋
+  ### Hi, I'm Caridad and I am a Full Stack Developer with 4 years of experience 👋
     <img src="https://media.giphy.com/media/qT3NpahR7tGnOqqjng/giphy.gif"/>
     <div id="badges">
         <a href="http://linkedin.com/in/cari-rivera">
@@ -9,10 +9,8 @@
 </div>
 </div>
 
-- 🔭 I’m currently working on a Next.js, Tailwind, Firebase journal application
-- 🌱 I’m currently learning Docker
+- 🔭 I’m currently working on a React Native journal application
 - 📫 How to reach me: devcaridad@gmail.com
-- ⚡ Fun fact: I am fully bilingual
 
 
 ### My Stats:
