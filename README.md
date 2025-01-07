@@ -9,7 +9,14 @@
 </div>
 </div>
 
-- 🔭 I’m currently working on a React Native journal application
+- 🔭 I’m currently working on a React Native journal application that allows the user to create a post about a given topic and relate to it.
+  * Leverages Supabase Edge Functions
+  * User is Authenticated and Authorized.
+  * User able to upload profile and background images
+  * User able to flag posts
+  * User able to create posts
+  * User can block another user
+  * User can delete their account
 - 📫 How to reach me: devcaridad@gmail.com
 
 
