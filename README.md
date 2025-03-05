@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  ### Hi, I'm Caridad and I am a Full Stack Developer with 4 years of experience 👋
+  ### Hi, I'm Caridad and I am a Full Stack Developer with 5 years of experience 👋
     <img src="https://media.giphy.com/media/qT3NpahR7tGnOqqjng/giphy.gif"/>
     <div id="badges">
         <a href="http://linkedin.com/in/cari-rivera">
@@ -9,7 +9,7 @@
 </div>
 </div>
 
-- 🔭 I’m currently working on a React Native journal application that allows the user to create a post about a given topic and relate to it.
+- 🔭 This year, I designed and completed a React Native journal application that allows the user to create a post about a given topic and relate to it.
   * Leverages Supabase Edge Functions
   * User is Authenticated and Authorized.
   * User able to upload profile and background images
